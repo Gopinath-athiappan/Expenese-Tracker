@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Expenese-Tracker/static/css/main.ce8300e2.css",
+    "main.js": "/Expenese-Tracker/static/js/main.afca4cce.js",
+    "index.html": "/Expenese-Tracker/index.html",
+    "main.ce8300e2.css.map": "/Expenese-Tracker/static/css/main.ce8300e2.css.map",
+    "main.afca4cce.js.map": "/Expenese-Tracker/static/js/main.afca4cce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce8300e2.css",
+    "static/js/main.afca4cce.js"
+  ]
+}
